@@ -1,0 +1,21 @@
+# Local AI and project guidance
+.agents/
+AGENTS.md
+
+# IDE settings
+.idea/
+.vscode/
+
+# Local builds and temporary files
+.build/
+*.exe
+SSH-connection.txt
+
+# SSH private keys
+netbook_key
+netbook_key.*
+!netbook_key.pub
+
+# Local diagnostic and experimental materials
+browser/
+diagnostics/
